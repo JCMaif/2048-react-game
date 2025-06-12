@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', 'Roboto', 'Arial', sans-serif;
+  background: #faf8ef;
+  color: #333;
+}
+
+h1 {
+  font-size: 3rem;
+  color: #776e65;
+  margin-bottom: 20px;
+}
